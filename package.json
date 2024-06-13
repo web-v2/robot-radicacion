@@ -1,0 +1,11 @@
+{
+  "name": "robot-radicados",
+  "version": "1.0.0",
+  "description": "App para colocar los radicados en cada factura de acuerdo al list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samir Vergara",
+  "license": "MIT"
+}
